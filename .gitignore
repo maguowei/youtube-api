@@ -128,4 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .chalice/deployments/
+.chalice/deployed/
 .chalice/venv/
+.vscode/
