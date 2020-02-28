@@ -1,5 +1,7 @@
 # youtube-api
 
+![Python application](https://github.com/maguowei/youtube-api/workflows/Python%20application/badge.svg)
+
 YouTube API on AWS Lambda
 
 `/api/?url={URL}`
